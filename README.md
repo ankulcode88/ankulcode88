@@ -1,4 +1,4 @@
-
+![Ankul Kumar - Python Full Stack Developer](./profile-banner.png)
 # Hi there, I'm Ankul Kumar 👋
 
 ### Python Full Stack Developer | Generative AI | Cloud & DevOps
